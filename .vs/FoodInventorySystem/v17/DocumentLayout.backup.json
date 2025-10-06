@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Thania Jurado\\source\\repos\\FoodInventorySystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B4036F-564A-73CC-A014-42610A37D356}|foodinventorysystem.client\\foodinventorysystem.client.esproj|c:\\users\\thania jurado\\source\\repos\\foodinventorysystem\\foodinventorysystem.client\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{B6B4036F-564A-73CC-A014-42610A37D356}|foodinventorysystem.client\\foodinventorysystem.client.esproj|solutionrelative:foodinventorysystem.client\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B78D50B-CDCE-40D4-85D8-206007E634F6}|FoodInventorySystem.Server\\FoodInventorySystem.Server.csproj|c:\\users\\thania jurado\\source\\repos\\foodinventorysystem\\foodinventorysystem.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B78D50B-CDCE-40D4-85D8-206007E634F6}|FoodInventorySystem.Server\\FoodInventorySystem.Server.csproj|solutionrelative:foodinventorysystem.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B78D50B-CDCE-40D4-85D8-206007E634F6}|FoodInventorySystem.Server\\FoodInventorySystem.Server.csproj|c:\\users\\thania jurado\\source\\repos\\foodinventorysystem\\foodinventorysystem.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B78D50B-CDCE-40D4-85D8-206007E634F6}|FoodInventorySystem.Server\\FoodInventorySystem.Server.csproj|solutionrelative:foodinventorysystem.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B78D50B-CDCE-40D4-85D8-206007E634F6}|FoodInventorySystem.Server\\FoodInventorySystem.Server.csproj|c:\\users\\thania jurado\\source\\repos\\foodinventorysystem\\foodinventorysystem.server\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B78D50B-CDCE-40D4-85D8-206007E634F6}|FoodInventorySystem.Server\\FoodInventorySystem.Server.csproj|solutionrelative:foodinventorysystem.server\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B4036F-564A-73CC-A014-42610A37D356}|foodinventorysystem.client\\foodinventorysystem.client.esproj|c:\\users\\thania jurado\\source\\repos\\foodinventorysystem\\foodinventorysystem.client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B6B4036F-564A-73CC-A014-42610A37D356}|foodinventorysystem.client\\foodinventorysystem.client.esproj|solutionrelative:foodinventorysystem.client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B4036F-564A-73CC-A014-42610A37D356}|foodinventorysystem.client\\foodinventorysystem.client.esproj|c:\\users\\thania jurado\\source\\repos\\foodinventorysystem\\foodinventorysystem.client\\src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{B6B4036F-564A-73CC-A014-42610A37D356}|foodinventorysystem.client\\foodinventorysystem.client.esproj|solutionrelative:foodinventorysystem.client\\src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.css",
+              "DocumentMoniker": "C:\\Users\\Thania Jurado\\source\\repos\\FoodInventorySystem\\foodinventorysystem.client\\src\\App.css",
+              "RelativeDocumentMoniker": "foodinventorysystem.client\\src\\App.css",
+              "ToolTip": "C:\\Users\\Thania Jurado\\source\\repos\\FoodInventorySystem\\foodinventorysystem.client\\src\\App.css",
+              "RelativeToolTip": "foodinventorysystem.client\\src\\App.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-06T22:20:58.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Thania Jurado\\source\\repos\\FoodInventorySystem\\FoodInventorySystem.Server\\Program.cs",
+              "RelativeDocumentMoniker": "FoodInventorySystem.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\Thania Jurado\\source\\repos\\FoodInventorySystem\\FoodInventorySystem.Server\\Program.cs",
+              "RelativeToolTip": "FoodInventorySystem.Server\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAvwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T19:38:46.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Thania Jurado\\source\\repos\\FoodInventorySystem\\FoodInventorySystem.Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "FoodInventorySystem.Server\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Thania Jurado\\source\\repos\\FoodInventorySystem\\FoodInventorySystem.Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "FoodInventorySystem.Server\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAmwC4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T18:48:38.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.tsx",
+              "DocumentMoniker": "C:\\Users\\Thania Jurado\\source\\repos\\FoodInventorySystem\\foodinventorysystem.client\\src\\App.tsx",
+              "RelativeDocumentMoniker": "foodinventorysystem.client\\src\\App.tsx",
+              "ToolTip": "C:\\Users\\Thania Jurado\\source\\repos\\FoodInventorySystem\\foodinventorysystem.client\\src\\App.tsx",
+              "RelativeToolTip": "foodinventorysystem.client\\src\\App.tsx",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-03T18:42:20.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\Thania Jurado\\source\\repos\\FoodInventorySystem\\FoodInventorySystem.Server\\Inventory.cs",
+              "RelativeDocumentMoniker": "FoodInventorySystem.Server\\Inventory.cs",
+              "ToolTip": "C:\\Users\\Thania Jurado\\source\\repos\\FoodInventorySystem\\FoodInventorySystem.Server\\Inventory.cs",
+              "RelativeToolTip": "FoodInventorySystem.Server\\Inventory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T18:43:42.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "main.tsx",
+              "DocumentMoniker": "C:\\Users\\Thania Jurado\\source\\repos\\FoodInventorySystem\\foodinventorysystem.client\\src\\main.tsx",
+              "RelativeDocumentMoniker": "foodinventorysystem.client\\src\\main.tsx",
+              "ToolTip": "C:\\Users\\Thania Jurado\\source\\repos\\FoodInventorySystem\\foodinventorysystem.client\\src\\main.tsx",
+              "RelativeToolTip": "foodinventorysystem.client\\src\\main.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-03T18:41:48.678Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

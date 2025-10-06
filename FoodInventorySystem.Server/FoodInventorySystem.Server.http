@@ -1,0 +1,6 @@
+@FoodInventorySystem.Server_HostAddress = http://localhost:5209
+
+GET {{FoodInventorySystem.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
